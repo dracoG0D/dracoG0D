@@ -1,5 +1,5 @@
-- 👋 Hi, I’m pluto - Founder and Owner of WAVY CS:GO Community
-- 📫 Contact me on Facebook: https://facebook.com/limitlesspluto
+- **👋 Hi, I’m pluto - Founder and Owner of WAVY CS:GO Community**
+- **📫 Contact me on Facebook: https://facebook.com/limitlesspluto**
 
 <!---
 dracoG0D/dracoG0D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
