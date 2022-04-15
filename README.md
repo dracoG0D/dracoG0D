@@ -1,4 +1,4 @@
-- 👋 Hi, I’m pluto, Owner of WAVY CS:GO Community
+- 👋 Hi, I’m pluto - Founder and Owner of WAVY CS:GO Community
 - 📫 Contact me on Facebook: https://facebook.com/limitlesspluto
 
 <!---
